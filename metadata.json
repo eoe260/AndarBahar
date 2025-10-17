@@ -1,0 +1,7 @@
+{
+  "name": "Alltime Prediction AB",
+  "description": "A prediction and simulation tool for a specific variant of the Andar Bahar card game. Analyze probabilities, generate predictions, and simulate games to understand outcome patterns.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
